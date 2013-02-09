@@ -30,5 +30,6 @@ module.exports = [
   {value: 'MXN', name: 'MXN - Mexican Peso', order: 0},
   {value: 'KRW', name: 'KRW - South Korean Won', order: 0},
   {value: 'TWD', name: 'TWD - New Taiwan Dollar', order: 0},
-  {value: 'HKD', name: 'HKD - Hong Kong Dollar', order: 0}
+  {value: 'HKD', name: 'HKD - Hong Kong Dollar', order: 0},
+  {value: 'ARS', name: 'ARS - Argentine Peso', order: 0}
 ];
